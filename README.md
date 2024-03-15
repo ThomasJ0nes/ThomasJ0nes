@@ -11,3 +11,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasj0nes&show_icons=true&locale=en" alt="thomasj0nes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasj0nes&" alt="thomasj0nes" /></p>
+
+<a href="https://app.daily.dev/tomjones"><img src="https://api.daily.dev/devcards/v2/93NEdSEIk2RiJWuJJPVgk.png?type=default&r=t5r" width="356" alt="Tom Jones's Dev Card"/></a>
