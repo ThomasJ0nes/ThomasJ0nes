@@ -4,4 +4,4 @@
 <p align="center">I love to build full stack web apps 🌐</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasj0nes&" alt="thomasj0nes" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomasj0nes&" alt="thomasj0nes" />
